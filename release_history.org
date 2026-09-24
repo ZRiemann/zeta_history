@@ -1,0 +1,8 @@
+#+TITLE: zeta_history Release History
+
+* v0.1.0 - 2026-09-24
+
+- Document that this repository currently contains documentation only and has
+  no native build entry or placeholder build targets.
+- Establish the repository VERSION and release history for future deliveries.
+- No build or tests apply to this documentation-only delivery.
